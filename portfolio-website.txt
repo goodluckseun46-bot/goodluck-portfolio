@@ -1,0 +1,3814 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Goodluck Gabriella is a multidisciplinary digital freelancer specializing in web development, graphic design, UI/UX, AI, digital marketing, cybersecurity and creative digital solutions.">
+
+    <meta name="keywords" content="web developer, graphic designer, UI UX designer, freelancer, AI services, digital marketing, cybersecurity, Nigeria">
+
+    <title>Goodluck Gabriella | Digital Solutions & Creative Technology</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ================= HEADER ================= -->
+
+    <header class="header" id="header">
+
+        <div class="container nav-container">
+
+            <a href="#home" class="logo">
+                <span class="logo-mark">G</span>
+                <span>Goodluck<span class="logo-dot">.</span></span>
+            </a>
+
+            <nav class="nav" id="nav">
+
+                <a href="#home" class="nav-link active">Home</a>
+                <a href="#services" class="nav-link">Services</a>
+                <a href="#work" class="nav-link">Work</a>
+                <a href="#about" class="nav-link">About</a>
+                <a href="#process" class="nav-link">Process</a>
+                <a href="#contact" class="nav-link">Contact</a>
+
+            </nav>
+
+            <div class="nav-actions">
+
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                    <span id="themeIcon">?</span>
+                </button>
+
+                <a href="#contact" class="nav-button">
+                    Let's Work Together
+                </a>
+
+                <button class="menu-toggle" id="menuToggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+
+            </div>
+
+        </div>
+
+    </header>
+
+
+    <!-- ================= HERO ================= -->
+
+    <main>
+
+        <section class="hero" id="home">
+
+            <div class="hero-grid"></div>
+
+            <div class="container hero-container">
+
+                <div class="hero-content reveal">
+
+                    <div class="availability">
+                        <span class="status-dot"></span>
+                        Available for new projects
+                    </div>
+
+                    <h1>
+                        I build digital experiences
+                        <span>people remember.</span>
+                    </h1>
+
+                    <p class="hero-description">
+                        I'm Goodluck, a multidisciplinary freelancer helping
+                        businesses, startups and individuals turn ideas into
+                        professional websites, brands, digital products and
+                        growth systems.
+                    </p>
+
+                    <div class="hero-buttons">
+
+                        <a href="#work" class="btn btn-primary">
+                            Explore My Work
+                            <span>?</span>
+                        </a>
+
+                        <a href="#contact" class="btn btn-secondary">
+                            Start a Project
+                        </a>
+
+                    </div>
+
+                    <div class="hero-trust">
+
+                        <div class="trust-avatars">
+                            <div class="avatar">A</div>
+                            <div class="avatar">J</div>
+                            <div class="avatar">M</div>
+                            <div class="avatar">+</div>
+                        </div>
+
+                        <div>
+                            <strong>Creative + Technical</strong>
+                            <span>One partner for your digital needs</span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="hero-visual reveal">
+
+                    <div class="visual-card main-image">
+
+                        <img
+                            src="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=85"
+                            alt="Creative team working on a digital project"
+                        >
+
+                        <div class="image-overlay"></div>
+
+                        <div class="floating-card card-one">
+
+                            <span class="floating-icon">?</span>
+
+                            <div>
+                                <strong>Digital Solutions</strong>
+                                <small>Built around your goals</small>
+                            </div>
+
+                        </div>
+
+                        <div class="floating-card card-two">
+
+                            <div class="mini-chart">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+
+                            <div>
+                                <strong>+ Growth</strong>
+                                <small>Strategy driven</small>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="hero-circle">
+                        <span>WEB</span>
+                        <span>DESIGN</span>
+                        <span>AI</span>
+                        <span>GROWTH</span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= MARQUEE ================= -->
+
+        <section class="marquee-section">
+
+            <div class="marquee">
+
+                <div class="marquee-content">
+
+                    <span>WEB DEVELOPMENT</span>
+                    <b>?</b>
+                    <span>BRAND DESIGN</span>
+                    <b>?</b>
+                    <span>UI/UX</span>
+                    <b>?</b>
+                    <span>AI SOLUTIONS</span>
+                    <b>?</b>
+                    <span>DIGITAL MARKETING</span>
+                    <b>?</b>
+                    <span>CREATIVE TECHNOLOGY</span>
+                    <b>?</b>
+
+                </div>
+
+                <div class="marquee-content">
+
+                    <span>WEB DEVELOPMENT</span>
+                    <b>?</b>
+                    <span>BRAND DESIGN</span>
+                    <b>?</b>
+                    <span>UI/UX</span>
+                    <b>?</b>
+                    <span>AI SOLUTIONS</span>
+                    <b>?</b>
+                    <span>DIGITAL MARKETING</span>
+                    <b>?</b>
+                    <span>CREATIVE TECHNOLOGY</span>
+                    <b>?</b>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= SERVICES ================= -->
+
+        <section class="section services-section" id="services">
+
+            <div class="container">
+
+                <div class="section-heading reveal">
+
+                    <div>
+                        <span class="eyebrow">WHAT I DO</span>
+
+                        <h2>
+                            More than one skill.
+                            <span>One complete solution.</span>
+                        </h2>
+                    </div>
+
+                    <p>
+                        From strategy and design to development and growth,
+                        I combine creative and technical skills to deliver
+                        complete digital solutions.
+                    </p>
+
+                </div>
+
+
+                <div class="service-filters reveal">
+
+                    <button class="service-filter active" data-filter="all">
+                        All
+                    </button>
+
+                    <button class="service-filter" data-filter="technology">
+                        Technology
+                    </button>
+
+                    <button class="service-filter" data-filter="creative">
+                        Creative
+                    </button>
+
+                    <button class="service-filter" data-filter="marketing">
+                        Marketing
+                    </button>
+
+                    <button class="service-filter" data-filter="business">
+                        Business
+                    </button>
+
+                </div>
+
+
+                <div class="services-grid">
+
+                    <article class="service-card reveal" data-category="technology">
+
+                        <div class="service-number">01</div>
+                        <div class="service-icon">?</div>
+
+                        <h3>Web Development</h3>
+
+                        <p>
+                            Modern responsive websites, landing pages,
+                            business platforms and full-stack applications.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                            <span>React</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+
+                    <article class="service-card featured reveal" data-category="creative">
+
+                        <div class="service-number">02</div>
+                        <div class="service-icon">?</div>
+
+                        <h3>Graphic & Brand Design</h3>
+
+                        <p>
+                            Memorable visual identities, logos, marketing
+                            assets, social media designs and brand systems.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>Branding</span>
+                            <span>Figma</span>
+                            <span>Adobe</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+
+                    <article class="service-card reveal" data-category="creative">
+
+                        <div class="service-number">03</div>
+                        <div class="service-icon">?</div>
+
+                        <h3>UI/UX Design</h3>
+
+                        <p>
+                            User-focused interfaces, wireframes, prototypes
+                            and product experiences designed for clarity.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>Research</span>
+                            <span>Figma</span>
+                            <span>Prototype</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+
+                    <article class="service-card reveal" data-category="technology">
+
+                        <div class="service-number">04</div>
+                        <div class="service-icon">AI</div>
+
+                        <h3>AI Solutions</h3>
+
+                        <p>
+                            AI integration, prompt engineering, automation,
+                            AI workflows and practical AI solutions.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>AI</span>
+                            <span>Automation</span>
+                            <span>Prompts</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+
+                    <article class="service-card reveal" data-category="marketing">
+
+                        <div class="service-number">05</div>
+                        <div class="service-icon">?</div>
+
+                        <h3>Digital Marketing</h3>
+
+                        <p>
+                            SEO, social media strategy, paid advertising,
+                            content marketing and lead generation systems.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>SEO</span>
+                            <span>Social</span>
+                            <span>Ads</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+
+                    <article class="service-card reveal" data-category="technology">
+
+                        <div class="service-number">06</div>
+                        <div class="service-icon">?</div>
+
+                        <h3>Cybersecurity</h3>
+
+                        <p>
+                            Security-focused assessments, data protection,
+                            vulnerability checks and digital safety solutions.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>Security</span>
+                            <span>Audits</span>
+                            <span>Protection</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+
+                    <article class="service-card reveal" data-category="creative">
+
+                        <div class="service-number">07</div>
+                        <div class="service-icon">?</div>
+
+                        <h3>Video & Motion</h3>
+
+                        <p>
+                            Social media videos, YouTube editing, motion
+                            graphics, promotional content and visual stories.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>Editing</span>
+                            <span>Motion</span>
+                            <span>Content</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+
+                    <article class="service-card reveal" data-category="business">
+
+                        <div class="service-number">08</div>
+                        <div class="service-icon">?</div>
+
+                        <h3>Business Support</h3>
+
+                        <p>
+                            Virtual assistance, project coordination,
+                            research, consulting and digital business support.
+                        </p>
+
+                        <div class="service-tags">
+                            <span>Research</span>
+                            <span>Admin</span>
+                            <span>Strategy</span>
+                        </div>
+
+                        <a href="#contact">Explore service ?</a>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= STATS ================= -->
+
+        <section class="stats-section">
+
+            <div class="container stats-grid">
+
+                <div class="stat reveal">
+                    <strong data-count="20">0</strong><span>+</span>
+                    <p>Digital skills</p>
+                </div>
+
+                <div class="stat reveal">
+                    <strong data-count="8">0</strong><span>+</span>
+                    <p>Service categories</p>
+                </div>
+
+                <div class="stat reveal">
+                    <strong data-count="100">0</strong><span>%</span>
+                    <p>Project commitment</p>
+                </div>
+
+                <div class="stat reveal">
+                    <strong data-count="24">0</strong><span>/7</span>
+                    <p>Digital mindset</p>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= WORK ================= -->
+
+        <section class="section work-section" id="work">
+
+            <div class="container">
+
+                <div class="section-heading reveal">
+
+                    <div>
+                        <span class="eyebrow">SELECTED WORK</span>
+
+                        <h2>
+                            Ideas turned into
+                            <span>digital experiences.</span>
+                        </h2>
+                    </div>
+
+                    <p>
+                        A selection of the kind of work I can create for
+                        brands, businesses and individuals.
+                    </p>
+
+                </div>
+
+
+                <div class="work-filters reveal">
+
+                    <button class="work-filter active" data-work="all">
+                        All
+                    </button>
+
+                    <button class="work-filter" data-work="web">
+                        Websites
+                    </button>
+
+                    <button class="work-filter" data-work="brand">
+                        Branding
+                    </button>
+
+                    <button class="work-filter" data-work="marketing">
+                        Marketing
+                    </button>
+
+                </div>
+
+
+                <div class="work-grid">
+
+                    <article class="work-card large reveal" data-type="web">
+
+                        <div class="work-image">
+
+                            <img
+                                src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=85"
+                                alt="Modern analytics dashboard"
+                            >
+
+                            <div class="work-overlay">
+                                <span>Web Development</span>
+                                <h3>Business Intelligence</h3>
+                                <a href="#contact">View concept ?</a>
+                            </div>
+
+                        </div>
+
+                    </article>
+
+
+                    <article class="work-card reveal" data-type="brand">
+
+                        <div class="work-image">
+
+                            <img
+                                src="https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=1000&q=85"
+                                alt="Creative branding materials"
+                            >
+
+                            <div class="work-overlay">
+                                <span>Brand Identity</span>
+                                <h3>Visual Identity System</h3>
+                                <a href="#contact">View concept ?</a>
+                            </div>
+
+                        </div>
+
+                    </article>
+
+
+                    <article class="work-card reveal" data-type="marketing">
+
+                        <div class="work-image">
+
+                            <img
+                                src="https://images.unsplash.com/photo-1553484771-371a605b060b?auto=format&fit=crop&w=1000&q=85"
+                                alt="Digital marketing strategy"
+                            >
+
+                            <div class="work-overlay">
+                                <span>Digital Marketing</span>
+                                <h3>Growth Campaign</h3>
+                                <a href="#contact">View concept ?</a>
+                            </div>
+
+                        </div>
+
+                    </article>
+
+
+                    <article class="work-card large reveal" data-type="web">
+
+                        <div class="work-image">
+
+                            <img
+                                src="https://images.unsplash.com/photo-1559028012-481c04fa702d?auto=format&fit=crop&w=1400&q=85"
+                                alt="Mobile application interface design"
+                            >
+
+                            <div class="work-overlay">
+                                <span>UI/UX Design</span>
+                                <h3>Digital Product Experience</h3>
+                                <a href="#contact">View concept ?</a>
+                            </div>
+
+                        </div>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= ABOUT ================= -->
+
+        <section class="section about-section" id="about">
+
+            <div class="container about-grid">
+
+                <div class="about-visual reveal">
+
+                    <div class="about-image">
+
+                        <img
+                            src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=85"
+                            alt="Creative professional working"
+                        >
+
+                    </div>
+
+                    <div class="experience-card">
+
+                        <strong>Creative</strong>
+                        <span>+</span>
+                        <strong>Technology</strong>
+
+                    </div>
+
+                </div>
+
+
+                <div class="about-content reveal">
+
+                    <span class="eyebrow">ABOUT ME</span>
+
+                    <h2>
+                        I connect creativity
+                        <span>with technology.</span>
+                    </h2>
+
+                    <p>
+                        I'm Goodluck, a multidisciplinary freelancer with
+                        skills across web development, design, digital
+                        marketing, AI, technology and business support.
+                    </p>
+
+                    <p>
+                        Instead of forcing clients to coordinate several
+                        different freelancers, I bring multiple digital
+                        capabilities together to create a smoother,
+                        more consistent project experience.
+                    </p>
+
+
+                    <div class="about-points">
+
+                        <div>
+                            <span>?</span>
+                            <p>Creative thinking</p>
+                        </div>
+
+                        <div>
+                            <span>?</span>
+                            <p>Technical problem solving</p>
+                        </div>
+
+                        <div>
+                            <span>?</span>
+                            <p>Business focused execution</p>
+                        </div>
+
+                        <div>
+                            <span>?</span>
+                            <p>Clear communication</p>
+                        </div>
+
+                    </div>
+
+
+                    <a href="#contact" class="text-link">
+                        Let's discuss your idea <span>?</span>
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= PROCESS ================= -->
+
+        <section class="section process-section" id="process">
+
+            <div class="container">
+
+                <div class="section-heading centered reveal">
+
+                    <span class="eyebrow">HOW I WORK</span>
+
+                    <h2>
+                        Simple process.
+                        <span>Serious results.</span>
+                    </h2>
+
+                    <p>
+                        Every project starts with understanding the problem,
+                        then turning the right idea into a useful solution.
+                    </p>
+
+                </div>
+
+
+                <div class="process-grid">
+
+                    <div class="process-item reveal">
+
+                        <div class="process-number">01</div>
+
+                        <div class="process-line"></div>
+
+                        <h3>Discover</h3>
+
+                        <p>
+                            We discuss your goals, audience, challenges and
+                            what success should look like.
+                        </p>
+
+                    </div>
+
+
+                    <div class="process-item reveal">
+
+                        <div class="process-number">02</div>
+
+                        <div class="process-line"></div>
+
+                        <h3>Plan</h3>
+
+                        <p>
+                            I develop the structure, strategy, creative
+                            direction and project roadmap.
+                        </p>
+
+                    </div>
+
+
+                    <div class="process-item reveal">
+
+                        <div class="process-number">03</div>
+
+                        <div class="process-line"></div>
+
+                        <h3>Create</h3>
+
+                        <p>
+                            Design, development, content and implementation
+                            come together to build the solution.
+                        </p>
+
+                    </div>
+
+
+                    <div class="process-item reveal">
+
+                        <div class="process-number">04</div>
+
+                        <div class="process-line"></div>
+
+                        <h3>Launch</h3>
+
+                        <p>
+                            We review the final work, make improvements and
+                            prepare everything for launch.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= TESTIMONIAL ================= -->
+
+        <section class="testimonial-section">
+
+            <div class="container testimonial-container reveal">
+
+                <span class="quote-mark">“</span>
+
+                <blockquote>
+                    Good design should not only look impressive.
+                    It should make the right thing easier to understand,
+                    remember and act on.
+                </blockquote>
+
+                <div class="testimonial-author">
+
+                    <div class="author-avatar">G</div>
+
+                    <div>
+                        <strong>Goodluck</strong>
+                        <span>Digital Freelancer & Creative Technologist</span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= CONTACT ================= -->
+
+        <section class="section contact-section" id="contact">
+
+            <div class="container contact-grid">
+
+                <div class="contact-info reveal">
+
+                    <span class="eyebrow">LET'S TALK</span>
+
+                    <h2>
+                        Have an idea?
+                        <span>Let's build it.</span>
+                    </h2>
+
+                    <p>
+                        Tell me what you're working on. Whether you need a
+                        website, brand identity, digital marketing, design,
+                        AI solution or something completely different,
+                        let's discuss it.
+                    </p>
+
+
+                    <div class="contact-details">
+
+                        <a href="mailto:goodluckseun46@email.com" class="contact-detail">
+
+                            <span class="contact-icon">?</span>
+
+                            <div>
+                                <small>Email</small>
+                                <strong>goodluckseun46@email.com</strong>
+                            </div>
+
+                        </a>
+
+
+                        <a href="https://wa.me/2348081123105" target="_blank" class="contact-detail">
+
+                            <span class="contact-icon">?</span>
+
+                            <div>
+                                <small>WhatsApp</small>
+                                <strong>Let's chat</strong>
+                            </div>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+
+                <form class="contact-form reveal" id="contactForm">
+
+                    <div class="form-row">
+
+                        <div class="form-group">
+
+                            <label for="name">Your name</label>
+
+                            <input
+                                type="text"
+                                id="name"
+                                name="name"
+                                placeholder="John Doe"
+                                required
+                            >
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label for="email">Email address</label>
+
+                            <input
+                                type="email"
+                                id="email"
+                                name="email"
+                                placeholder="john@example.com"
+                                required
+                            >
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="service">What do you need?</label>
+
+                        <select id="service" name="service">
+
+                            <option value="">Select a service</option>
+                            <option>Web Development</option>
+                            <option>Graphic Design</option>
+                            <option>UI/UX Design</option>
+                            <option>AI Solutions</option>
+                            <option>Digital Marketing</option>
+                            <option>Video Editing</option>
+                            <option>Cybersecurity</option>
+                            <option>Business Support</option>
+                            <option>Something else</option>
+
+                        </select>
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="message">Tell me about your project</label>
+
+                        <textarea
+                            id="message"
+                            name="message"
+                            rows="6"
+                            placeholder="Tell me what you are trying to build..."
+                            required
+                        ></textarea>
+
+                    </div>
+
+
+                    <button type="submit" class="btn btn-primary submit-btn">
+
+                        Send Project Brief
+                        <span>?</span>
+
+                    </button>
+
+
+                    <p class="form-note">
+                        Your message will open in your email application.
+                    </p>
+
+                </form>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer class="footer">
+
+        <div class="container footer-top">
+
+            <div>
+
+                <a href="#home" class="logo">
+                    <span class="logo-mark">G</span>
+                    <span>Goodluck<span class="logo-dot">.</span></span>
+                </a>
+
+                <p>
+                    Creative technology and digital solutions
+                    for ambitious people and businesses.
+                </p>
+
+            </div>
+
+
+            <div class="footer-links">
+
+                <div>
+                    <strong>Navigate</strong>
+                    <a href="#home">Home</a>
+                    <a href="#services">Services</a>
+                    <a href="#work">Work</a>
+                    <a href="#about">About</a>
+                </div>
+
+                <div>
+                    <strong>Connect</strong>
+                    <a href="#contact">Contact</a>
+                    <a href="https://@goodluckseun46/" target="_blank">LinkedIn</a>
+                    <a href="https://@goodluckseun46/" target="_blank">Instagram</a>
+                 
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="container footer-bottom">
+
+            <span>
+                © <span id="year"></span> Goodluck. All rights reserved.
+            </span>
+
+            <span>
+                Designed & built with intention.
+            </span>
+
+        </div>
+
+    </footer>
+
+
+    <div class="toast" id="toast">
+        Thanks! Your project brief is ready to send.
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+
+style.css
+:root {
+
+    --bg: #f5f5f2;
+    --surface: #ffffff;
+    --surface-2: #eeeeea;
+
+    --text: #111111;
+    --muted: #686868;
+
+    --border: rgba(17, 17, 17, 0.1);
+
+    --accent: #d7ff3f;
+    --accent-dark: #a9cf19;
+
+    --dark: #111111;
+
+    --shadow: 0 25px 70px rgba(0, 0, 0, 0.08);
+
+    --radius: 24px;
+
+}
+
+
+[data-theme="dark"] {
+
+    --bg: #0d0d0d;
+    --surface: #151515;
+    --surface-2: #202020;
+
+    --text: #f5f5f5;
+    --muted: #a5a5a5;
+
+    --border: rgba(255, 255, 255, 0.1);
+
+    --dark: #f5f5f5;
+
+    --shadow: 0 25px 70px rgba(0, 0, 0, 0.3);
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+
+    font-family: "DM Sans", sans-serif;
+
+    background: var(--bg);
+
+    color: var(--text);
+
+    line-height: 1.6;
+
+    overflow-x: hidden;
+
+    transition:
+        background 0.3s ease,
+        color 0.3s ease;
+
+}
+
+
+img {
+    width: 100%;
+    display: block;
+}
+
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+button,
+input,
+textarea,
+select {
+    font: inherit;
+}
+
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+
+.container {
+
+    width: min(1180px, calc(100% - 40px));
+
+    margin: auto;
+
+}
+
+
+.section {
+    padding: 120px 0;
+}
+
+
+.eyebrow {
+
+    display: inline-block;
+
+    margin-bottom: 18px;
+
+    font-size: 12px;
+
+    font-weight: 700;
+
+    letter-spacing: 2px;
+
+    color: var(--muted);
+
+}
+
+
+/* ================= HEADER ================= */
+
+
+.header {
+
+    position: fixed;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+
+    z-index: 1000;
+
+    background: rgba(245, 245, 242, 0.75);
+
+    backdrop-filter: blur(20px);
+
+    border-bottom: 1px solid transparent;
+
+    transition: 0.3s ease;
+
+}
+
+
+[data-theme="dark"] .header {
+    background: rgba(13, 13, 13, 0.75);
+}
+
+
+.header.scrolled {
+
+    border-color: var(--border);
+
+}
+
+
+.nav-container {
+
+    height: 82px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+}
+
+
+.logo {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    font-family: "Space Grotesk", sans-serif;
+
+    font-size: 20px;
+
+    font-weight: 700;
+
+}
+
+
+.logo-mark {
+
+    width: 36px;
+    height: 36px;
+
+    display: grid;
+    place-items: center;
+
+    background: var(--text);
+
+    color: var(--bg);
+
+    border-radius: 10px;
+
+}
+
+
+.logo-dot {
+    color: var(--accent-dark);
+}
+
+
+.nav {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 32px;
+
+}
+
+
+.nav-link {
+
+    position: relative;
+
+    color: var(--muted);
+
+    font-size: 14px;
+
+    transition: 0.3s ease;
+
+}
+
+
+.nav-link:hover,
+.nav-link.active {
+    color: var(--text);
+}
+
+
+.nav-link.active::after {
+
+    content: "";
+
+    position: absolute;
+
+    width: 5px;
+    height: 5px;
+
+    border-radius: 50%;
+
+    background: var(--accent-dark);
+
+    left: 50%;
+
+    bottom: -9px;
+
+    transform: translateX(-50%);
+
+}
+
+
+.nav-actions {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+}
+
+
+.theme-toggle {
+
+    width: 42px;
+    height: 42px;
+
+    border-radius: 50%;
+
+    background: var(--surface);
+
+    color: var(--text);
+
+    border: 1px solid var(--border);
+
+}
+
+
+.nav-button {
+
+    background: var(--text);
+
+    color: var(--bg);
+
+    padding: 12px 18px;
+
+    border-radius: 100px;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+}
+
+
+.menu-toggle {
+
+    display: none;
+
+    width: 42px;
+    height: 42px;
+
+    background: transparent;
+
+}
+
+
+.menu-toggle span {
+
+    display: block;
+
+    width: 22px;
+    height: 2px;
+
+    background: var(--text);
+
+    margin: 5px auto;
+
+}
+
+
+/* ================= HERO ================= */
+
+
+.hero {
+
+    min-height: 900px;
+
+    padding-top: 150px;
+
+    position: relative;
+
+    display: flex;
+
+    align-items: center;
+
+    overflow: hidden;
+
+}
+
+
+.hero-grid {
+
+    position: absolute;
+
+    inset: 0;
+
+    opacity: 0.35;
+
+    background-image:
+
+        linear-gradient(var(--border) 1px, transparent 1px),
+
+        linear-gradient(90deg, var(--border) 1px, transparent 1px);
+
+    background-size: 80px 80px;
+
+    mask-image: linear-gradient(
+        to bottom,
+        black,
+        transparent
+    );
+
+}
+
+
+.hero-container {
+
+    display: grid;
+
+    grid-template-columns: 1fr 0.9fr;
+
+    gap: 80px;
+
+    align-items: center;
+
+}
+
+
+.availability {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    padding: 8px 13px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 100px;
+
+    background: var(--surface);
+
+    font-size: 12px;
+
+    margin-bottom: 25px;
+
+}
+
+
+.status-dot {
+
+    width: 7px;
+    height: 7px;
+
+    border-radius: 50%;
+
+    background: #5bd16e;
+
+}
+
+
+.hero h1 {
+
+    max-width: 750px;
+
+    font-family: "Space Grotesk", sans-serif;
+
+    font-size: clamp(50px, 6vw, 84px);
+
+    line-height: 0.98;
+
+    letter-spacing: -4px;
+
+}
+
+
+.hero h1 span {
+
+    display: block;
+
+    color: transparent;
+
+    -webkit-text-stroke: 1px var(--text);
+
+}
+
+
+.hero-description {
+
+    max-width: 610px;
+
+    margin-top: 30px;
+
+    color: var(--muted);
+
+    font-size: 17px;
+
+}
+
+
+.hero-buttons {
+
+    display: flex;
+
+    gap: 12px;
+
+    margin-top: 35px;
+
+}
+
+
+.btn {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 12px;
+
+    padding: 16px 22px;
+
+    border-radius: 100px;
+
+    font-size: 14px;
+
+    font-weight: 700;
+
+    transition: 0.3s ease;
+
+}
+
+
+.btn-primary {
+
+    background: var(--text);
+
+    color: var(--bg);
+
+}
+
+
+.btn-primary:hover {
+
+    transform: translateY(-3px);
+
+}
+
+
+.btn-secondary {
+
+    border: 1px solid var(--border);
+
+    background: var(--surface);
+
+}
+
+
+.btn-secondary:hover {
+
+    background: var(--surface-2);
+
+}
+
+
+.hero-trust {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 14px;
+
+    margin-top: 45px;
+
+}
+
+
+.trust-avatars {
+
+    display: flex;
+
+}
+
+
+.avatar {
+
+    width: 35px;
+    height: 35px;
+
+    margin-left: -8px;
+
+    border: 2px solid var(--bg);
+
+    border-radius: 50%;
+
+    display: grid;
+
+    place-items: center;
+
+    background: var(--surface-2);
+
+    font-size: 11px;
+
+    font-weight: 700;
+
+}
+
+
+.avatar:first-child {
+    margin-left: 0;
+}
+
+
+.hero-trust strong,
+.hero-trust span {
+
+    display: block;
+
+}
+
+
+.hero-trust strong {
+    font-size: 13px;
+}
+
+
+.hero-trust span {
+
+    color: var(--muted);
+
+    font-size: 11px;
+
+}
+
+
+/* HERO IMAGE */
+
+
+.hero-visual {
+
+    position: relative;
+
+}
+
+
+.main-image {
+
+    position: relative;
+
+    width: 100%;
+
+    height: 620px;
+
+    overflow: hidden;
+
+    border-radius: 200px 200px 24px 24px;
+
+    box-shadow: var(--shadow);
+
+}
+
+
+.main-image img {
+
+    height: 100%;
+
+    object-fit: cover;
+
+}
+
+
+.image-overlay {
+
+    position: absolute;
+
+    inset: 0;
+
+    background:
+        linear-gradient(
+            180deg,
+            transparent 50%,
+            rgba(0,0,0,0.4)
+        );
+
+}
+
+
+.floating-card {
+
+    position: absolute;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+    padding: 15px;
+
+    background: rgba(255,255,255,0.9);
+
+    color: #111;
+
+    backdrop-filter: blur(15px);
+
+    border-radius: 15px;
+
+    box-shadow: 0 15px 50px rgba(0,0,0,0.15);
+
+}
+
+
+.card-one {
+
+    top: 80px;
+
+    left: -45px;
+
+}
+
+
+.card-two {
+
+    bottom: 55px;
+
+    right: -35px;
+
+}
+
+
+.floating-icon {
+
+    width: 35px;
+    height: 35px;
+
+    display: grid;
+    place-items: center;
+
+    background: #111;
+
+    color: #fff;
+
+    border-radius: 10px;
+
+}
+
+
+.floating-card strong,
+.floating-card small {
+
+    display: block;
+
+}
+
+
+.floating-card strong {
+
+    font-size: 12px;
+
+}
+
+
+.floating-card small {
+
+    color: #666;
+
+    font-size: 10px;
+
+}
+
+
+.mini-chart {
+
+    display: flex;
+
+    align-items: end;
+
+    gap: 3px;
+
+    width: 40px;
+    height: 30px;
+
+}
+
+
+.mini-chart span {
+
+    width: 5px;
+
+    background: #111;
+
+    border-radius: 10px;
+
+}
+
+
+.mini-chart span:nth-child(1) {
+    height: 30%;
+}
+
+.mini-chart span:nth-child(2) {
+    height: 55%;
+}
+
+.mini-chart span:nth-child(3) {
+    height: 40%;
+}
+
+.mini-chart span:nth-child(4) {
+    height: 75%;
+}
+
+.mini-chart span:nth-child(5) {
+    height: 100%;
+}
+
+
+.hero-circle {
+
+    position: absolute;
+
+    width: 130px;
+    height: 130px;
+
+    border-radius: 50%;
+
+    background: var(--accent);
+
+    left: -75px;
+
+    bottom: 110px;
+
+    display: grid;
+
+    place-items: center;
+
+    text-align: center;
+
+    font-size: 9px;
+
+    font-weight: 800;
+
+    line-height: 1.7;
+
+    transform: rotate(-12deg);
+
+}
+
+
+/* ================= MARQUEE ================= */
+
+
+.marquee-section {
+
+    overflow: hidden;
+
+    padding: 25px 0;
+
+    background: var(--text);
+
+    color: var(--bg);
+
+}
+
+
+.marquee {
+
+    display: flex;
+
+    width: max-content;
+
+    animation: marquee 25s linear infinite;
+
+}
+
+
+.marquee-content {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 28px;
+
+    padding-right: 28px;
+
+    white-space: nowrap;
+
+}
+
+
+.marquee-content span {
+
+    font-family: "Space Grotesk";
+
+    font-size: 14px;
+
+    font-weight: 700;
+
+}
+
+
+.marquee-content b {
+
+    color: var(--accent);
+
+}
+
+
+@keyframes marquee {
+
+    to {
+        transform: translateX(-50%);
+    }
+
+}
+
+
+/* ================= SECTION HEADING ================= */
+
+
+.section-heading {
+
+    display: flex;
+
+    align-items: end;
+
+    justify-content: space-between;
+
+    gap: 50px;
+
+    margin-bottom: 55px;
+
+}
+
+
+.section-heading h2 {
+
+    max-width: 680px;
+
+    font-family: "Space Grotesk";
+
+    font-size: clamp(38px, 5vw, 64px);
+
+    line-height: 1;
+
+    letter-spacing: -3px;
+
+}
+
+
+.section-heading h2 span {
+
+    display: block;
+
+    color: var(--muted);
+
+}
+
+
+.section-heading > p {
+
+    max-width: 360px;
+
+    color: var(--muted);
+
+}
+
+
+/* ================= SERVICES ================= */
+
+
+.service-filters,
+.work-filters {
+
+    display: flex;
+
+    gap: 8px;
+
+    flex-wrap: wrap;
+
+    margin-bottom: 30px;
+
+}
+
+
+.service-filter,
+.work-filter {
+
+    padding: 10px 17px;
+
+    border-radius: 100px;
+
+    background: var(--surface);
+
+    color: var(--muted);
+
+    border: 1px solid var(--border);
+
+    font-size: 12px;
+
+}
+
+
+.service-filter.active,
+.work-filter.active {
+
+    background: var(--text);
+
+    color: var(--bg);
+
+}
+
+
+.services-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 14px;
+
+}
+
+
+.service-card {
+
+    position: relative;
+
+    padding: 30px;
+
+    min-height: 370px;
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: var(--radius);
+
+    transition: 0.4s ease;
+
+    overflow: hidden;
+
+}
+
+
+.service-card:hover {
+
+    transform: translateY(-8px);
+
+    box-shadow: var(--shadow);
+
+}
+
+
+.service-card.featured {
+
+    background: var(--text);
+
+    color: var(--bg);
+
+}
+
+
+.service-number {
+
+    position: absolute;
+
+    top: 25px;
+    right: 25px;
+
+    color: var(--muted);
+
+    font-size: 11px;
+
+}
+
+
+.service-icon {
+
+    width: 55px;
+    height: 55px;
+
+    display: grid;
+    place-items: center;
+
+    margin-bottom: 40px;
+
+    border-radius: 15px;
+
+    background: var(--surface-2);
+
+    font-family: "Space Grotesk";
+
+    font-size: 20px;
+
+    font-weight: 700;
+
+}
+
+
+.featured .service-icon {
+
+    background: rgba(255,255,255,0.12);
+
+}
+
+
+.service-card h3 {
+
+    font-family: "Space Grotesk";
+
+    font-size: 22px;
+
+    margin-bottom: 12px;
+
+}
+
+
+.service-card p {
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+}
+
+
+.featured p {
+
+    color: rgba(255,255,255,0.65);
+
+}
+
+
+.service-tags {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 5px;
+
+    margin-top: 20px;
+
+}
+
+
+.service-tags span {
+
+    padding: 5px 8px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 5px;
+
+    font-size: 9px;
+
+}
+
+
+.service-card a {
+
+    position: absolute;
+
+    bottom: 25px;
+
+    left: 30px;
+
+    font-size: 11px;
+
+    font-weight: 700;
+
+}
+
+
+/* ================= STATS ================= */
+
+
+.stats-section {
+
+    padding: 45px 0;
+
+    background: var(--text);
+
+    color: var(--bg);
+
+}
+
+
+.stats-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+}
+
+
+.stat {
+
+    padding: 20px;
+
+    border-right: 1px solid rgba(255,255,255,0.12);
+
+}
+
+
+.stat:last-child {
+    border-right: none;
+}
+
+
+.stat strong {
+
+    font-family: "Space Grotesk";
+
+    font-size: 52px;
+
+    line-height: 1;
+
+}
+
+
+.stat > span {
+
+    color: var(--accent);
+
+    font-size: 22px;
+
+    font-weight: 700;
+
+}
+
+
+.stat p {
+
+    margin-top: 8px;
+
+    color: rgba(255,255,255,0.55);
+
+    font-size: 12px;
+
+}
+
+
+/* ================= WORK ================= */
+
+
+.work-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 18px;
+
+}
+
+
+.work-card {
+
+    min-height: 450px;
+
+}
+
+
+.work-card.large {
+
+    min-height: 600px;
+
+}
+
+
+.work-image {
+
+    position: relative;
+
+    height: 100%;
+
+    min-height: inherit;
+
+    overflow: hidden;
+
+    border-radius: var(--radius);
+
+    background: var(--surface-2);
+
+}
+
+
+.work-image img {
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    transition: 0.7s ease;
+
+}
+
+
+.work-card:hover img {
+
+    transform: scale(1.05);
+
+}
+
+
+.work-overlay {
+
+    position: absolute;
+
+    inset: 0;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: end;
+
+    padding: 35px;
+
+    color: #fff;
+
+    background:
+        linear-gradient(
+            transparent 40%,
+            rgba(0,0,0,0.8)
+        );
+
+}
+
+
+.work-overlay span {
+
+    font-size: 10px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+    opacity: 0.7;
+
+}
+
+
+.work-overlay h3 {
+
+    font-family: "Space Grotesk";
+
+    font-size: 30px;
+
+    margin: 5px 0 15px;
+
+}
+
+
+.work-overlay a {
+
+    font-size: 12px;
+
+    font-weight: 700;
+
+}
+
+
+/* ================= ABOUT ================= */
+
+
+.about-section {
+
+    background: var(--surface);
+
+}
+
+
+.about-grid {
+
+    display: grid;
+
+    grid-template-columns: 0.9fr 1fr;
+
+    gap: 100px;
+
+    align-items: center;
+
+}
+
+
+.about-visual {
+
+    position: relative;
+
+}
+
+
+.about-image {
+
+    width: 90%;
+
+    height: 600px;
+
+    overflow: hidden;
+
+    border-radius: 25px 150px 25px 25px;
+
+}
+
+
+.about-image img {
+
+    height: 100%;
+
+    object-fit: cover;
+
+}
+
+
+.experience-card {
+
+    position: absolute;
+
+    right: 0;
+
+    bottom: 50px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 3px;
+
+    padding: 25px;
+
+    background: var(--text);
+
+    color: var(--bg);
+
+    border-radius: 18px;
+
+}
+
+
+.experience-card span {
+
+    color: var(--accent);
+
+}
+
+
+.experience-card strong {
+
+    font-family: "Space Grotesk";
+
+}
+
+
+.about-content h2 {
+
+    font-family: "Space Grotesk";
+
+    font-size: clamp(40px, 5vw, 65px);
+
+    line-height: 1;
+
+    letter-spacing: -3px;
+
+    margin-bottom: 30px;
+
+}
+
+
+.about-content h2 span {
+
+    color: var(--muted);
+
+}
+
+
+.about-content > p {
+
+    max-width: 570px;
+
+    color: var(--muted);
+
+    margin-bottom: 18px;
+
+}
+
+
+.about-points {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 15px;
+
+    margin: 30px 0;
+
+}
+
+
+.about-points div {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+}
+
+
+.about-points span {
+
+    width: 24px;
+    height: 24px;
+
+    display: grid;
+
+    place-items: center;
+
+    background: var(--accent);
+
+    color: #111;
+
+    border-radius: 50%;
+
+    font-size: 11px;
+
+}
+
+
+.about-points p {
+
+    font-size: 12px;
+
+}
+
+
+.text-link {
+
+    display: inline-flex;
+
+    gap: 12px;
+
+    padding-bottom: 7px;
+
+    border-bottom: 1px solid var(--text);
+
+    font-size: 13px;
+
+    font-weight: 700;
+
+}
+
+
+/* ================= PROCESS ================= */
+
+
+.centered {
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    text-align: center;
+
+}
+
+
+.centered h2 {
+
+    margin-bottom: 20px;
+
+}
+
+
+.process-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 20px;
+
+}
+
+
+.process-item {
+
+    position: relative;
+
+    padding: 30px;
+
+    border-top: 1px solid var(--border);
+
+}
+
+
+.process-number {
+
+    font-family: "Space Grotesk";
+
+    font-size: 12px;
+
+    margin-bottom: 60px;
+
+    color: var(--muted);
+
+}
+
+
+.process-item h3 {
+
+    font-family: "Space Grotesk";
+
+    font-size: 22px;
+
+    margin-bottom: 10px;
+
+}
+
+
+.process-item p {
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+}
+
+
+/* ================= TESTIMONIAL ================= */
+
+
+.testimonial-section {
+
+    padding: 120px 0;
+
+    background: var(--accent);
+
+    color: #111;
+
+}
+
+
+.testimonial-container {
+
+    max-width: 950px;
+
+}
+
+
+.quote-mark {
+
+    font-family: Georgia;
+
+    font-size: 80px;
+
+    line-height: 0.5;
+
+}
+
+
+blockquote {
+
+    font-family: "Space Grotesk";
+
+    font-size: clamp(30px, 4vw, 54px);
+
+    line-height: 1.1;
+
+    letter-spacing: -2px;
+
+    margin: 25px 0 40px;
+
+}
+
+
+.testimonial-author {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+}
+
+
+.author-avatar {
+
+    width: 45px;
+    height: 45px;
+
+    display: grid;
+    place-items: center;
+
+    border-radius: 50%;
+
+    background: #111;
+
+    color: #fff;
+
+}
+
+
+.testimonial-author strong,
+.testimonial-author span {
+
+    display: block;
+
+}
+
+
+.testimonial-author strong {
+
+    font-size: 13px;
+
+}
+
+
+.testimonial-author span {
+
+    font-size: 11px;
+
+    opacity: 0.6;
+
+}
+
+
+/* ================= CONTACT ================= */
+
+
+.contact-section {
+
+    background: var(--surface);
+
+}
+
+
+.contact-grid {
+
+    display: grid;
+
+    grid-template-columns: 0.8fr 1fr;
+
+    gap: 100px;
+
+}
+
+
+.contact-info h2 {
+
+    font-family: "Space Grotesk";
+
+    font-size: clamp(45px, 5vw, 70px);
+
+    line-height: 0.98;
+
+    letter-spacing: -3px;
+
+    margin-bottom: 25px;
+
+}
+
+
+.contact-info h2 span {
+
+    display: block;
+
+    color: var(--muted);
+
+}
+
+
+.contact-info > p {
+
+    max-width: 450px;
+
+    color: var(--muted);
+
+}
+
+
+.contact-details {
+
+    margin-top: 45px;
+
+}
+
+
+.contact-detail {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 15px;
+
+    padding: 18px 0;
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+
+.contact-icon {
+
+    width: 42px;
+    height: 42px;
+
+    display: grid;
+    place-items: center;
+
+    background: var(--surface-2);
+
+    border-radius: 50%;
+
+}
+
+
+.contact-detail small,
+.contact-detail strong {
+
+    display: block;
+
+}
+
+
+.contact-detail small {
+
+    color: var(--muted);
+
+    font-size: 10px;
+
+}
+
+
+.contact-detail strong {
+
+    font-size: 13px;
+
+}
+
+
+.contact-form {
+
+    padding: 40px;
+
+    background: var(--bg);
+
+    border: 1px solid var(--border);
+
+    border-radius: 25px;
+
+}
+
+
+.form-row {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 15px;
+
+}
+
+
+.form-group {
+
+    margin-bottom: 20px;
+
+}
+
+
+.form-group label {
+
+    display: block;
+
+    margin-bottom: 8px;
+
+    font-size: 11px;
+
+    font-weight: 700;
+
+}
+
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+
+    width: 100%;
+
+    padding: 15px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 12px;
+
+    outline: none;
+
+    background: var(--surface);
+
+    color: var(--text);
+
+    resize: vertical;
+
+}
+
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+
+    border-color: var(--text);
+
+}
+
+
+.submit-btn {
+
+    border: none;
+
+    width: 100%;
+
+}
+
+
+.form-note {
+
+    margin-top: 12px;
+
+    text-align: center;
+
+    color: var(--muted);
+
+    font-size: 10px;
+
+}
+
+
+/* ================= FOOTER ================= */
+
+
+.footer {
+
+    padding: 70px 0 25px;
+
+    background: var(--text);
+
+    color: var(--bg);
+
+}
+
+
+.footer-top {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 50px;
+
+    padding-bottom: 60px;
+
+}
+
+
+.footer .logo-mark {
+
+    background: var(--bg);
+
+    color: var(--text);
+
+}
+
+
+.footer p {
+
+    max-width: 350px;
+
+    margin-top: 20px;
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+}
+
+
+.footer-links {
+
+    display: flex;
+
+    gap: 100px;
+
+}
+
+
+.footer-links div {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 9px;
+
+}
+
+
+.footer-links strong {
+
+    margin-bottom: 8px;
+
+    font-size: 11px;
+
+}
+
+
+.footer-links a {
+
+    color: var(--muted);
+
+    font-size: 11px;
+
+}
+
+
+.footer-links a:hover {
+
+    color: var(--bg);
+
+}
+
+
+.footer-bottom {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    padding-top: 20px;
+
+    border-top: 1px solid rgba(255,255,255,0.1);
+
+    color: var(--muted);
+
+    font-size: 10px;
+
+}
+
+
+/* ================= TOAST ================= */
+
+
+.toast {
+
+    position: fixed;
+
+    right: 25px;
+
+    bottom: 25px;
+
+    z-index: 2000;
+
+    padding: 15px 20px;
+
+    background: var(--text);
+
+    color: var(--bg);
+
+    border-radius: 12px;
+
+    font-size: 12px;
+
+    transform: translateY(100px);
+
+    opacity: 0;
+
+    transition: 0.3s ease;
+
+}
+
+
+.toast.show {
+
+    transform: translateY(0);
+
+    opacity: 1;
+
+}
+
+
+/* ================= REVEAL ================= */
+
+
+.reveal {
+
+    opacity: 0;
+
+    transform: translateY(30px);
+
+    transition:
+        opacity 0.8s ease,
+        transform 0.8s ease;
+
+}
+
+
+.reveal.visible {
+
+    opacity: 1;
+
+    transform: translateY(0);
+
+}
+
+
+/* ================= RESPONSIVE ================= */
+
+
+@media (max-width: 1050px) {
+
+    .nav {
+        gap: 18px;
+    }
+
+    .hero-container {
+        gap: 40px;
+    }
+
+    .services-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .process-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 800px) {
+
+    .section {
+        padding: 85px 0;
+    }
+
+    .nav {
+        position: fixed;
+
+        top: 82px;
+        left: 20px;
+        right: 20px;
+
+        display: none;
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        padding: 25px;
+
+        background: var(--surface);
+
+        border: 1px solid var(--border);
+
+        border-radius: 20px;
+
+        box-shadow: var(--shadow);
+    }
+
+    .nav.open {
+        display: flex;
+    }
+
+    .nav-actions .nav-button {
+        display: none;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .hero {
+        min-height: auto;
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+
+    .hero-container {
+        grid-template-columns: 1fr;
+    }
+
+    .hero h1 {
+        font-size: clamp(48px, 14vw, 75px);
+    }
+
+    .hero-visual {
+        max-width: 550px;
+        margin: auto;
+    }
+
+    .main-image {
+        height: 500px;
+    }
+
+    .card-one {
+        left: 10px;
+    }
+
+    .card-two {
+        right: 10px;
+    }
+
+    .hero-circle {
+        display: none;
+    }
+
+    .section-heading {
+        display: block;
+    }
+
+    .section-heading > p {
+        margin-top: 20px;
+    }
+
+    .about-grid,
+    .contact-grid {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+
+    .about-image {
+        width: 100%;
+        height: 500px;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .stat:nth-child(2) {
+        border-right: none;
+    }
+
+    .stat {
+        border-bottom: 1px solid rgba(255,255,255,0.12);
+    }
+
+    .footer-top {
+        flex-direction: column;
+    }
+
+}
+
+
+@media (max-width: 550px) {
+
+    .container {
+        width: min(100% - 28px, 1180px);
+    }
+
+    .nav-container {
+        height: 72px;
+    }
+
+    .nav {
+        top: 72px;
+        left: 14px;
+        right: 14px;
+    }
+
+    .hero {
+        padding-top: 110px;
+    }
+
+    .hero h1 {
+        letter-spacing: -3px;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .main-image {
+        height: 430px;
+    }
+
+    .floating-card {
+        transform: scale(0.85);
+    }
+
+    .services-grid,
+    .work-grid,
+    .process-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .work-card,
+    .work-card.large {
+        min-height: 400px;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .stat {
+        padding: 15px 5px;
+    }
+
+    .stat strong {
+        font-size: 38px;
+    }
+
+    .about-points {
+        grid-template-columns: 1fr;
+    }
+
+    .form-row {
+        grid-template-columns: 1fr;
+    }
+
+    .contact-form {
+        padding: 22px;
+    }
+
+    .footer-links {
+        gap: 50px;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+}
+script.js
+/* =========================
+   MOBILE NAVIGATION
+========================= */
+
+const menuToggle = document.getElementById("menuToggle");
+const nav = document.getElementById("nav");
+
+menuToggle.addEventListener("click", () => {
+    nav.classList.toggle("open");
+});
+
+
+document.querySelectorAll(".nav-link").forEach(link => {
+
+    link.addEventListener("click", () => {
+
+        nav.classList.remove("open");
+
+    });
+
+});
+
+
+/* =========================
+   HEADER SCROLL
+========================= */
+
+const header = document.getElementById("header");
+
+window.addEventListener("scroll", () => {
+
+    if (window.scrollY > 30) {
+        header.classList.add("scrolled");
+    } else {
+        header.classList.remove("scrolled");
+    }
+
+});
+
+
+/* =========================
+   DARK / LIGHT MODE
+========================= */
+
+const themeToggle = document.getElementById("themeToggle");
+const themeIcon = document.getElementById("themeIcon");
+
+const savedTheme = localStorage.getItem("theme");
+
+if (savedTheme === "dark") {
+
+    document.documentElement.setAttribute(
+        "data-theme",
+        "dark"
+    );
+
+    themeIcon.textContent = "?";
+
+}
+
+
+themeToggle.addEventListener("click", () => {
+
+    const currentTheme =
+        document.documentElement.getAttribute("data-theme");
+
+    if (currentTheme === "dark") {
+
+        document.documentElement.removeAttribute("data-theme");
+
+        localStorage.setItem("theme", "light");
+
+        themeIcon.textContent = "?";
+
+    } else {
+
+        document.documentElement.setAttribute(
+            "data-theme",
+            "dark"
+        );
+
+        localStorage.setItem("theme", "dark");
+
+        themeIcon.textContent = "?";
+
+    }
+
+});
+
+
+/* =========================
+   SERVICE FILTER
+========================= */
+
+const serviceFilters =
+    document.querySelectorAll(".service-filter");
+
+const serviceCards =
+    document.querySelectorAll(".service-card");
+
+
+serviceFilters.forEach(button => {
+
+    button.addEventListener("click", () => {
+
+        serviceFilters.forEach(item =>
+            item.classList.remove("active")
+        );
+
+        button.classList.add("active");
+
+        const filter = button.dataset.filter;
+
+        serviceCards.forEach(card => {
+
+            if (
+                filter === "all" ||
+                card.dataset.category === filter
+            ) {
+
+                card.style.display = "block";
+
+            } else {
+
+                card.style.display = "none";
+
+            }
+
+        });
+
+    });
+
+});
+
+
+/* =========================
+   WORK FILTER
+========================= */
+
+const workFilters =
+    document.querySelectorAll(".work-filter");
+
+const workCards =
+    document.querySelectorAll(".work-card");
+
+
+workFilters.forEach(button => {
+
+    button.addEventListener("click", () => {
+
+        workFilters.forEach(item =>
+            item.classList.remove("active")
+        );
+
+        button.classList.add("active");
+
+        const filter = button.dataset.work;
+
+        workCards.forEach(card => {
+
+            if (
+                filter === "all" ||
+                card.dataset.type === filter
+            ) {
+
+                card.style.display = "block";
+
+            } else {
+
+                card.style.display = "none";
+
+            }
+
+        });
+
+    });
+
+});
+
+
+/* =========================
+   SCROLL REVEAL
+========================= */
+
+const revealElements =
+    document.querySelectorAll(".reveal");
+
+
+const revealObserver =
+    new IntersectionObserver(
+
+        entries => {
+
+            entries.forEach(entry => {
+
+                if (entry.isIntersecting) {
+
+                    entry.target.classList.add("visible");
+
+                    revealObserver.unobserve(entry.target);
+
+                }
+
+            });
+
+        },
+
+        {
+            threshold: 0.12
+        }
+
+    );
+
+
+revealElements.forEach(element => {
+
+    revealObserver.observe(element);
+
+});
+
+
+/* =========================
+   ANIMATED COUNTERS
+========================= */
+
+const counters =
+    document.querySelectorAll("[data-count]");
+
+
+const counterObserver =
+    new IntersectionObserver(
+
+        entries => {
+
+            entries.forEach(entry => {
+
+                if (!entry.isIntersecting) return;
+
+                const counter = entry.target;
+
+                const target =
+                    Number(counter.dataset.count);
+
+                let current = 0;
+
+                const increment =
+                    Math.max(1, Math.ceil(target / 50));
+
+                const timer =
+                    setInterval(() => {
+
+                        current += increment;
+
+                        if (current >= target) {
+
+                            counter.textContent = target;
+
+                            clearInterval(timer);
+
+                        } else {
+
+                            counter.textContent = current;
+
+                        }
+
+                    }, 25);
+
+                counterObserver.unobserve(counter);
+
+            });
+
+        },
+
+        {
+            threshold: 0.7
+        }
+
+    );
+
+
+counters.forEach(counter => {
+
+    counterObserver.observe(counter);
+
+});
+
+
+/* =========================
+   CONTACT FORM
+========================= */
+
+const contactForm =
+    document.getElementById("contactForm");
+
+const toast =
+    document.getElementById("toast");
+
+
+contactForm.addEventListener("submit", event => {
+
+    event.preventDefault();
+
+    const name =
+        document.getElementById("name").value;
+
+    const email =
+        document.getElementById("email").value;
+
+    const service =
+        document.getElementById("service").value;
+
+    const message =
+        document.getElementById("message").value;
+
+
+    const subject =
+        encodeURIComponent(
+            `New Project Inquiry from ${name}`
+        );
+
+
+    const body =
+        encodeURIComponent(
+`
+Hello Goodluck,
+
+My name is ${name}.
+
+Email: ${email}
+
+Service needed:
+${service}
+
+Project details:
+${message}
+
+I would like to discuss this project with you.
+
+Thank you.
+`
+        );
+
+
+    /*
+       CHANGE THIS EMAIL
+       TO YOUR REAL BUSINESS EMAIL.
+    */
+
+    const businessEmail =
+        "scarlett.hayes.charlotte@email.com";
+
+
+    window.location.href =
+        `mailto:${businessEmail}?subject=${subject}&body=${body}`;
+
+
+    toast.classList.add("show");
+
+
+    setTimeout(() => {
+
+        toast.classList.remove("show");
+
+    }, 4000);
+
+
+});
+
+
+/* =========================
+   CURRENT YEAR
+========================= */
+
+document.getElementById("year").textContent =
+    new Date().getFullYear();
+
+
+/* =========================
+   ACTIVE NAVIGATION
+========================= */
+
+const sections =
+    document.querySelectorAll("section[id]");
+
+const navLinks =
+    document.querySelectorAll(".nav-link");
+
+
+window.addEventListener("scroll", () => {
+
+    let current = "";
+
+    sections.forEach(section => {
+
+        const sectionTop =
+            section.offsetTop - 150;
+
+        if (window.scrollY >= sectionTop) {
+
+            current = section.getAttribute("id");
+
+        }
+
+    });
+
+
+    navLinks.forEach(link => {
+
+        link.classList.remove("active");
+
+        if (
+            link.getAttribute("href") === `#${current}`
+        ) {
+
+            link.classList.add("active");
+
+        }
+
+    });
+
+});
